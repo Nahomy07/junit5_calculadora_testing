@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ab89b11-45d6-4be2-816e-b74f1936357d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/nahomy/Calculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/nahomy/Calculadora.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/org/nahomy/CalculadoraTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/nahomy/CalculadoraTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +36,9 @@
   "keyToString": {
     "JUnit.AppTest.executor": "Run",
     "JUnit.AppTest.shouldAnswerWithTrue.executor": "Run",
+    "JUnit.CalculadoraTest.dividir.executor": "Run",
+    "JUnit.CalculadoraTest.multiplicar.executor": "Run",
+    "JUnit.CalculadoraTest.restar.executor": "Run",
     "JUnit.CalculadoraTest.sumar.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
